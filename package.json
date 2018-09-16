@@ -1,0 +1,25 @@
+{
+  "name": "iso",
+  "version": "1.0.0",
+  "description": "ISO Playground",
+  "main": "index.jsx",
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "rebass": "^3.0.0-8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ge-hall/iso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ge-hall/iso/issues"
+  },
+  "homepage": "https://github.com/ge-hall/iso#readme"
+}
